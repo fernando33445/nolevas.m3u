@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="telenovelas.mx" tvg-name="MX | Tlnovelas" tvg-logo="http://51.222.43.170:36995/images/7061f002454601bfbb0798233336175d.png" group-title="ENTRETENIMIENTO",MX | Tlnovelas
+http://51.222.43.170:36995/GamePlanet05/EubSngdD3hG4/104
+#EXTINF:-1 tvg-id="" tvg-name="UN | Univision Novelas" tvg-logo="http://51.222.43.170:36995/images/b897fc81bfc304e0956e591de5520c4b.png" group-title="UNIVISION",UN | Univision Novelas
+http://51.222.43.170:36995/GamePlanet05/EubSngdD3hG4/232354
+#EXTINF:-1 tvg-id="telenovelas.mx" tvg-name="MX | Tlnovelas *" tvg-logo="http://51.222.43.170:36995/images/7061f002454601bfbb0798233336175d.png" group-title="ENTRETENIMIENTO",MX | Tlnovelas *
+http://51.222.43.170:36995/GamePlanet05/EubSngdD3hG4/263257
+#EXTINF:-1 tvg-id="Colombia - RCN Novelas" tvg-name="CO | RCN Novelas" tvg-logo="http://51.222.43.170:36995/images/7b168565d61b52647bc26ad09c3fcf3b.png" group-title="COLOMBIA",CO | RCN Novelas
+http://51.222.43.170:36995/GamePlanet05/EubSngdD3hG4/418
+#EXTINF:-1 tvg-id="" tvg-name="Avatar (2009)" tvg-logo="http://51.222.43.170:25461/images/a78366d9f7a7a9c1c6795267b7151cdb.jpg" group-title="DISNEY",Avatar (2009)
+http://51.222.43.170:36995/movie/GamePlanet05/EubSngdD3hG4/195967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avatar (2009)" tvg-logo="http://51.222.43.170:36995/images/a78366d9f7a7a9c1c6795267b7151cdb.jpg" group-title="ACCION",Avatar (2009)
+http://51.222.43.170:36995/movie/GamePlanet05/EubSngdD3hG4/19587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avatar (2009)" tvg-logo="http://51.222.43.170:36995/images/a78366d9f7a7a9c1c6795267b7151cdb.jpg" group-title="ACCION",Avatar (2009)
+http://51.222.43.170:36995/movie/GamePlanet05/EubSngdD3hG4/19589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coco (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yX5SoQdABwVAiddkkAm1T58DAYJ.jpg" group-title="DISNEY",Coco (2017)
+http://51.222.43.170:36995/movie/GamePlanet05/EubSngdD3hG4/194896.mp4
